@@ -13,8 +13,7 @@
  - Audience : Tout public - 110 participants
  - Auteur du billet : Anaëlle MORIN
  - Mots-clés : Maintenabilité, tests, non-régression
- - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](oscar-keys-58399-unsplash.jpg)
-   - quelques sources : https://unsplash.com, https://xkcd.com/, http://dev.to/rly, ...
+ - URL de l'illustration : ![Photo prise lors de la conférence](20181122.jpg)
 
 ## Support
  - Lien vers le support (diapos) présenté en conférence : Non disponible
