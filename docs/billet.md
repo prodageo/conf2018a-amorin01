@@ -21,21 +21,23 @@
  - Plan du support :
    - Contexte
    - Les différentes types de tests pouvant être mis en place
-    - Les tests manuels
-    - Les tests automatisés simulant la navigation d'un utilisateur
-    - Les tests mockés
-    - Les tests d'intégration
-    - Les tests unitaires
+     - Les tests manuels
+     - Les tests automatisés simulant la navigation d'un utilisateur
+     - Les tests mockés
+     - Les tests d'intégration
+     - Les tests unitaires
    - Les tests spécifiques au web
-    - Les tests de régression visuel
-    - Les tests de performance
-    - Les tests d'accessibilité
-    - Les tests de SEO
+     - Les tests de régression visuel
+     - Les tests de performance
+     - Les tests d'accessibilité
+     - Les tests de SEO
    - Fréquence de lancement des différents types de tests
 
 ## Résumé
 Devant la complexité de plus en plus importante des applications, la maintenabilité des systèmes devient essentielle. Il est nécessaire de tester pour que le développement se passe au mieux. Différents types de tests existent. Ils ne sont pas à mettre en œuvre pour les mêmes raisons pour en augmenter l'efficacité. Les tests manuels et automatisés de la navigation utilisateur sont longs et fastidieux mais doivent être mis en place pour des parcours critiques. Les tests unitaires et d'intégration doivent être utilisés en plus grand nombre car ils sont plus faciles à mettre en place. 
+
 D'autres tests, plus spécifiques aux applications web, ne doivent pas être mis de côté malgré leur difficulté de mise en oeuvre. Le test de régression visuel permet de vérifier que l'ajout d'une fonctionnalité ne perturbe pas l'aspect visuel de l'application. Le test de performance se concentre sur la vitesse d'apparition des informations à l'écran. Le test d'accessibilité vérifie que l'application est accessible aux malvoyants, daltoniens, et au clavier. Le test de SEO vérifie la structure des données.
+
 La conférence conclut sur la nécessité d'utiliser le bon test au bon moment pour éviter la régression.
 
 
